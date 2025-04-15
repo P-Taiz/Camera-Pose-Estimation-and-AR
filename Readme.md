@@ -23,7 +23,7 @@ This project uses OpenCV to detect a chessboard pattern in real-time through a w
 1. Make sure you have a `camera_calibration_data.npz` file that contains your camera's calibration data (camera matrix and distortion coefficients)
 2. Run the script:
    ```
-   python ar_cube_visualizer.py
+   python Camera Pose Estimation and AR.py
    ```
 3. Hold a 7×6 chessboard pattern in front of your camera
 4. A colored 3D cube will appear on the chessboard when detected
@@ -31,7 +31,7 @@ This project uses OpenCV to detect a chessboard pattern in real-time through a w
 
 ## Demo
 
-![AR Cube Demo](Camera Pose Estimation and AR/Demo.png)
+![AR Cube Demo](Demo.png)
 
 *The image above shows the AR cube being rendered on top of a detected chessboard pattern.*
 
